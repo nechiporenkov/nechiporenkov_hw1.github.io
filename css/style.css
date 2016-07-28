@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #F4F2F0;
+}
+
+.wrapper{
+	width: 500px;
+	margin: 0 auto;
+	padding-top: 43px;
+}
+
+.name{
+	height: 320px;
+	border-bottom: 1px solid #b9b9b9;
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font: bold 36px arial, sans-serif;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border: 1px solid #999;
+	display: block;
+	margin: 20px auto;
+}
+
+.name p{
+	color: #666;
+	margin: 1px;
+	font: 14px arial, sans-serif;
+}
+
+.task{
+	height: 113px;
+	padding-top: 18px;
+	border-bottom: 1px solid #b9b9b9;
+}
+
+h3{
+	font: bold 17px arial, sans-serif;
+}
+
+
+ul{
+	padding: 22px 0 0 36px;
+}
+
+li{
+	font: 13px arial, sans-serif;
+	line-height: 125%;
+	padding: 1px;
+}
+
+.phone{
+	height: 147px;
+	padding-top: 19px;
+	border-bottom: 1px solid #b9b9b9;
+}
+
+.phone p{
+	padding: 21px 37px 14px;
+	font: 13px arial, sans-serif;
+}
+
+a{
+	font-style: italic;
+	display: block;
+	margin: 21px 0 0 37px;
+}
+
+.fedback{
+	padding-top: 18px;
+}
+
+.fedback p{
+	padding: 21px 37px 14px;
+	font: 13px arial, sans-serif;
+}
